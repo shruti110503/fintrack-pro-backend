@@ -71,5 +71,4 @@ JWT_SECRET=your_secret
 
 * Pagination
 * Search functionality
-* API documentation (Swagger)
 * Deployment
